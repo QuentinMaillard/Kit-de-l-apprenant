@@ -1,0 +1,10 @@
+{
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "• Pocket Space •/",
+    "• Pocket Space •/Templates/"
+  ],
+  "attachmentFolderPath": "• Pocket Space •/Attachements",
+  "newFileLocation": "current"
+}

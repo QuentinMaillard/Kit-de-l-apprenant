@@ -1,0 +1,14 @@
+{
+  "Components@@media-embed-card-border-off": false,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-dark@@card-layout-open-dark": true,
+  "Appearance-dark@@card-highlight-dark": false,
+  "Appearance-dark@@workspace-divider-transparent-dark": false,
+  "Components@@CTA-BTN-enable": true,
+  "Components@@file-names-untrim": false,
+  "Components@@folder-font-bold": true,
+  "Components@@vault-name-display-select": "vault-name-default",
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": false,
+  "Components@@immersive-canvas": false
+}

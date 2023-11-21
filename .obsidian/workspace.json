@@ -1,0 +1,267 @@
+{
+  "main": {
+    "id": "c5e86a494e3d3025",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ff7f98f4f00f91d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b0cc5a9a360a7db",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "• Accueil.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "54140d0f03505c91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Prise de notes/Article •.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2aca451a1983639e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6c0ea7dcb07da9e",
+        "type": "tabs",
+        "dimension": 61.777777777777786,
+        "children": [
+          {
+            "id": "f7f740ccc2f0edd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7afc16507dfb97f1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#index/embodiment",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b67225f8ad023e55",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "74ced3f4515ec77b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ab58cd6fabddf1e1",
+        "type": "tabs",
+        "dimension": 38.22222222222222,
+        "children": [
+          {
+            "id": "f5c8aed35dfca208",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "00 Prise de notes/Article •.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7500159892657021,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "cf2d72d850a8a2c8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00 Prise de notes/Article •.md"
+              }
+            }
+          },
+          {
+            "id": "df2185b7caa2ad73",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00 Prise de notes/Article •.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5fdcaf7055db28a2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00 Prise de notes/Article •.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "453038b2667da185",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 371.5
+  },
+  "right": {
+    "id": "fc4eb3143291f610",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cddcdf5542d9ba7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0644a5b49d211ead",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "switcher:Open quick switcher": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "homepage:Open homepage": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "54140d0f03505c91",
+  "lastOpenFiles": [
+    "00 Prise de notes/00 Prise de notes.md",
+    "• Pocket Space •/Templates/Template • Note atomique de savoir.md",
+    "• Pocket Space •/Templates/Template • Prise de note.md",
+    "00 Prise de notes/Article •.md",
+    "01 Construction de savoir/01 Construction de savoir.md",
+    "• Accueil.md",
+    "01 Construction de savoir/430. Savoirs connectés/Curiosité.md",
+    "Fonctionnalités de base d'obsidian.md",
+    "Listes d'éléments \"Markdown\".md",
+    "100 Social/110. Personnes/Quentin Maillard.md",
+    "100 Social/120. Organisations/Hetic.md",
+    "100 Social/100 Social.md",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Consignes.md",
+    "01 Construction de savoir/430. Savoirs connectés/La systémique.md",
+    "01 Construction de savoir/430. Savoirs connectés/Développement logiciel.md",
+    "01 Construction de savoir/420. Savoirs affirmés/Personal Knowledge Management (concept).md",
+    "01 Construction de savoir/420. Savoirs affirmés/Complexité (définition).md",
+    "01 Construction de savoir/430. Savoirs connectés",
+    "01 Construction de savoir/420. Savoirs affirmés/Environnement influant un système.md",
+    "01 Construction de savoir/420. Savoirs affirmés/Système (définition).md",
+    "400 Construction de savoir/• Savoirs nébuleux/Système en interaction avec son environnement.md",
+    "01 Construction de savoir/420. Savoirs affirmés/Scout Mindset (concept).md",
+    "400 Construction de savoir/Savoirs Affirmé/500 • Impredactibility of a complex system.md",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Note d'exploration.md",
+    "01 Construction de savoir/420. Savoirs affirmés/La complexité d'une système est basé sur le nombres d'éléments qui interagissent.md",
+    "01 Construction de savoir/410. Savoirs nébuleux/Entropie logicielle?.md",
+    "01 Construction de savoir/420. Savoirs affirmés/Feedback (définition).md",
+    "• Pocket Space •/Attachements/Spinoza.jpg",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Squelette de l'article.canvas",
+    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire",
+    "200 Activités/220. Projets scolaires",
+    "300 Prise de notes/310. Cours/MT5/Méthodologie de Veille",
+    "300 Prise de notes/310. Cours/MT5",
+    "300 Prise de notes/310. Cours",
+    "01 Construction de savoir/420. Savoirs affirmés",
+    "01 Construction de savoir/410. Savoirs nébuleux",
+    "100 Social/110. Personnes",
+    "100 Social/120. Organisations",
+    "• Pocket Space •/Attachements/planetarium.jpeg"
+  ]
+}

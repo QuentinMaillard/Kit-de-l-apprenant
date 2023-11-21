@@ -1,0 +1,66 @@
+{
+  "palette": [
+    {
+      "id": "lnsyAQKJ3BGFfv8Flk2kP",
+      "name": "200",
+      "value": "#ff5c5c"
+    },
+    {
+      "id": "6YlgIxYTiQeLLm323e3xQ",
+      "name": "100",
+      "value": "#41d259"
+    },
+    {
+      "id": "awYvOR9bWuZwx2pFS61cO",
+      "name": "300",
+      "value": "#d220df"
+    },
+    {
+      "id": "Hej4anooMNWHyly-wYsjP",
+      "name": "400",
+      "value": "#d1aa1f"
+    },
+    {
+      "id": "c-56Y2-P4nMMkELEbtHaJ",
+      "name": "500",
+      "value": "#38c9dc"
+    },
+    {
+      "id": "n3ezuYPBZx7wv_oqyG2sZ",
+      "name": "600",
+      "value": "#0400ff"
+    },
+    {
+      "id": "lkZl01oitZq1F_Uu4Kj-G",
+      "name": "700",
+      "value": "#9c38ff"
+    },
+    {
+      "id": "TUElgdneFJk-_ffgcm4TR",
+      "name": "hidden",
+      "value": "#dedede"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "00 Prise de notes",
+      "color": "awYvOR9bWuZwx2pFS61cO"
+    },
+    {
+      "path": "01 Construction de savoir",
+      "color": "c-56Y2-P4nMMkELEbtHaJ"
+    },
+    {
+      "path": "• Pocket Space •",
+      "color": "TUElgdneFJk-_ffgcm4TR"
+    },
+    {
+      "path": "01 Construction de savoir/01 Construction de savoir.md",
+      "color": "c-56Y2-P4nMMkELEbtHaJ"
+    },
+    {
+      "path": "00 Prise de notes/00 Prise de notes.md",
+      "color": "awYvOR9bWuZwx2pFS61cO"
+    }
+  ]
+}
