@@ -2,7 +2,7 @@
 lié à:
   - "[[00 Prise de notes]]"
 date: 2023-11-22
-source:
+source: https://fr.wikipedia.org/wiki/Intelligence_artificielle
 ---
 # Pendant la lecture ⇒
 
