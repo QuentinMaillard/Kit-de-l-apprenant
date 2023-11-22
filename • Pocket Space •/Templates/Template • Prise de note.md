@@ -7,12 +7,7 @@ source:
 # Pendant la lecture ⇒
 
 ## ✍️ Prise de notes
-- info
-	- info
-- info encore
-- ? question 
-- ! point intéressant
-	- info
+- 
 
 ### Pourquoi c’est important?
 - 
@@ -23,16 +18,16 @@ source:
 ### Qui ça concerne? À quel moment?
 - 
 
-## 🤔 Points à creuser
+---
+
+# Après ⤵︎
+
+## ⭐ Concepts et idées essentiels (futures notes atomiques)
+- 
+
+## 🤔 Points à creuser plus tard / Pistes à explorer
 
 - [ ] 
 
----
-
-# Après lecture ⤵︎
-
-## ⭐ Concepts et idées essentiels à extraire en [[01 Construction de savoir|notes atomique]]
-- 
-
-## 📚 Ressources à explorer plus tard
+## 📚 Ressources supplémentaires
 - 

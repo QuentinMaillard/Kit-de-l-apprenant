@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "54140d0f03505c91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 Prise de notes/Article • Intelligence artificielle.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "00 Prise de notes/Article • Intelligence artificielle.md",
+                "file": "• Accueil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 Prise de notes/Article • Intelligence artificielle.md"
+                "file": "• Accueil.md"
               }
             }
           },
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 Prise de notes/Article • Intelligence artificielle.md",
+                "file": "• Accueil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 Prise de notes/Article • Intelligence artificielle.md",
+                "file": "• Accueil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -222,14 +209,14 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "54140d0f03505c91",
+  "active": "0b0cc5a9a360a7db",
   "lastOpenFiles": [
-    "00 Prise de notes/00 Prise de notes.md",
-    "• Pocket Space •/Templates/Template • Note atomique de savoir.md",
     "• Pocket Space •/Templates/Template • Prise de note.md",
     "00 Prise de notes/Article • Intelligence artificielle.md",
-    "01 Construction de savoir/01 Construction de savoir.md",
     "• Accueil.md",
+    "00 Prise de notes/00 Prise de notes.md",
+    "• Pocket Space •/Templates/Template • Note atomique de savoir.md",
+    "01 Construction de savoir/01 Construction de savoir.md",
     "01 Construction de savoir/430. Savoirs connectés/Curiosité.md",
     "Fonctionnalités de base d'obsidian.md",
     "Listes d'éléments \"Markdown\".md",

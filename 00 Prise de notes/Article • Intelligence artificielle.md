@@ -23,10 +23,6 @@ source: https://fr.wikipedia.org/wiki/Intelligence_artificielle
 ### Qui ça concerne? À quel moment?
 - 
 
-## 🤔 Points à creuser
-
-- [ ] 
-
 ---
 
 # Après ⤵︎
@@ -34,5 +30,9 @@ source: https://fr.wikipedia.org/wiki/Intelligence_artificielle
 ## ⭐ Concepts et idées essentiels (futures notes atomiques)
 - 
 
-## 📚 Ressources à explorer plus tard
+## 🤔 Points à creuser plus tard / Pistes à explorer
+
+- [ ] 
+
+## 📚 Ressources supplémentaires
 - 
