@@ -1,18 +1,18 @@
-# 👋 Bienvenue dans votre coffre
+# 👋 Bienvenue dans votre nouveau coffre
 
 > [!info]
 > Ce template est une version simplifiée de mon framework de *Personal Knowledge Management* : https://github.com/QuentinMaillard/Obsidian-Sapiens_Framework
 
-Bienvenue dans Obsidian! 
+Bienvenue dans Obsidian!
 Asseyez-vous confortablement, prenez un peu de thé, tout va bien se passer.
 
-Ce logiciel est un outil de **gestion de connaissances** qui permet de facilement **créer des notes**, de les **organiser**, de les **relier entre elles**, et un tas d'autres choses (avoir des tags, avoir des notes journalières, etc.).
+Ce coffre a été réalisé par mes soins à un but pédagogique, pour offrir un point de départ dans son [[Apprentissage Systématique]].
 
-Dans obsidian, on créé nos notes avec le language *[[Listes d'éléments "Markdown"|markdown]]* (comme sur Notion), qui permet de faire de la mise en forme/page en même temps que l'on écrit, grâce à des caractères spéciaux. Voir ici pour mieux comprendre : https://help.obsidian.md/Editing+and+formatting/Basic+formatting+syntax
-
-Son but avoué est de permettre la construction d'un système personnel de gestion de son savoir, de deuxième cerveau, de gestion de projets, de prise de notes, etc.
-
-À noter : tous les fichiers sont stockées en local sur votre ordinateur, de vos notes à vos images en passant par vos dossiers et vos réglages. Vous possédez vos données, vous n'êtes pas trackés, le logiciel est **gratuit** et possède une grande communauté bienfaisante d'amoureux du savoir.
+Il est divisé en trois *espaces* : 
+- `Pocket space` qui est un dossier où sont rangés les fichiers de configuration, les pièces jointes, et autres archives
+- [[00 Prise de notes]] qui est le dossier qui contiendra toutes nos captures de contenu (cours, tuto, livres, etc)
+- [[01 Construction de savoir]] qui contiendra nos notes de synthèses interconnectées formant notre réseau de connaissance, notre savoir émergent formulé avec nos propres mots
+*👉 Notez que les espaces de travail/connaissances sont numérotés et possèdent leur propre "note d'accueil" ou "note d'index", qui permet des affichages particuliers et une navigation facilité.*
 
 ## 🧐 **Bon à savoir**
 ### ⌨️ Raccourcis clavier
@@ -33,5 +33,5 @@ Son but avoué est de permettre la construction d'un système personnel de gesti
 	- Chaque espace possède une note d'*index* qui explique le but de l'espace, son fonctionnement, et qui donne une vision sur son contenue (tâches à faire, dernières notes crées, etc)
 - Il est stylisé par le thème *border*
 - Divers plugins sont installés comme *file colors*, *dataview*, etc
-- Plusieurs templates sont disponibles pour accélérer sa prise en main ([[Template • Note atomique de savoir|template de note de savoir]])
+- Plusieurs templates sont disponibles pour accélérer sa prise en main ([[Template • Note synthétique|template de note de savoir]])
 	- À la création d'une nouvelle note, Obsidian vous demandera quel template vous voulez utiliser. Vous pouvez ne pas en utiliser.

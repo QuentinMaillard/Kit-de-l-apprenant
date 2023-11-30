@@ -1,33 +1,34 @@
 ---
-lié à:
+appartient à:
   - "[[00 Prise de notes]]"
 date: 
 source:
 ---
-# Pendant la lecture ⇒
+# Capture (*pendant le contenu*) ⇒
 
-## ✍️ Prise de notes
-- 
+## ✍️ Points intéressants
+- Point 1
+	- Détail
+	- ? Question
 
-### Pourquoi c’est important?
-- 
-
-### Comment l’utiliser / l’appliquer?
-- 
-
-### Qui ça concerne? À quel moment?
-- 
+- [ ] Points à creuser, à explorer
 
 ---
 
-# Après ⤵︎
+# Synthèse (*après consommation*) ⤵︎
 
-## ⭐ Concepts et idées essentiels (futures notes atomiques)
+## ⭐ Concepts et idées essentiels (*futures notes atomiques ⚛︎*)
 - 
 
-## 🤔 Points à creuser plus tard / Pistes à explorer
+## Pourquoi ce sujet est important?
+- 
 
-- [ ] 
+## Pour qui est-ce utile?
+- 
 
-## 📚 Ressources supplémentaires
+## Qu'est-ce que ça peut m'apporter?
+- 
+
+---
+# 📚 Bibliographie et Ressources annexes
 - 

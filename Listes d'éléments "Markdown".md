@@ -34,10 +34,14 @@ https://scienceetonnante.substack.com/p/le-financement-quadratique-des-biens
 > "Mal nommer les choses, c'est ajouter au malheur du monde."
 > — Albert Camus
 
+## Code block
 ```javascript
 let example = "code block"
 console.log("example")
 ```
+
+## Callout blocks
+*NB* : vous pouvez changer le type de vos blocks callouts en faisant **`click droit`** puis **`callout type`**.
 
 > [!tip] Astuce
 > J'adore les astuces.

@@ -4,21 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "5ff7f98f4f00f91d",
+        "id": "c314a492f682b26f",
         "type": "tabs",
         "children": [
           {
-            "id": "0b0cc5a9a360a7db",
+            "id": "66a4584504b2b59d",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "• Accueil.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "ca593caf888d65ba",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 Prise de notes (capture)/00 Prise de notes.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -115,7 +127,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.7500159892657021,
+                  "scale": 0.6664804906793454,
                   "close": true
                 }
               }
@@ -209,35 +221,38 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0b0cc5a9a360a7db",
+  "active": "66a4584504b2b59d",
   "lastOpenFiles": [
-    "• Pocket Space •/Templates/Template • Prise de note.md",
-    "00 Prise de notes/Article • Intelligence artificielle.md",
+    "00 Prise de notes (capture)/00 Prise de notes.md",
+    "01 Construction de savoir (synthèse)/01 Construction de savoir.md",
+    "00 Prise de notes (capture)/00.B Articles/Article • Big Data.md",
+    "00 Prise de notes (capture)/00.A Cours/2023-12-01 - Méthodologie, veille et auto-formation.md",
     "• Accueil.md",
-    "00 Prise de notes/00 Prise de notes.md",
-    "• Pocket Space •/Templates/Template • Note atomique de savoir.md",
-    "01 Construction de savoir/01 Construction de savoir.md",
-    "01 Construction de savoir/430. Savoirs connectés/Curiosité.md",
-    "Fonctionnalités de base d'obsidian.md",
+    "• Pocket Space •/Pièces jointes",
+    "00 Prise de notes (capture)/00.B Articles",
+    "00 Prise de notes (capture)/00.A Cours",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Apprentissage Systématique.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Obsidian.md",
+    "Invalid date.md",
+    "Le wiki de la vie (brouillon).canvas",
+    "2023-11-22.md",
+    "• Pocket Space •/Templates/Template • Prise de note.md",
+    "• Pocket Space •/Templates/Template • Note synthétique.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs connectés/Big Data.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs connectés/La systémique.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs connectés/Curiosité.md",
+    "01 Construction de savoir/01.C Savoirs connectés/Développement logiciel.md",
+    "01 Construction de savoir/01.C Savoirs connectés/Apprendre.md",
+    "01 Construction de savoir/01.C Savoirs connectés/Agir.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Complexité (définition).md",
     "Listes d'éléments \"Markdown\".md",
-    "100 Social/110. Personnes/Quentin Maillard.md",
-    "100 Social/120. Organisations/Hetic.md",
-    "100 Social/100 Social.md",
-    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Consignes.md",
-    "01 Construction de savoir/430. Savoirs connectés/La systémique.md",
-    "01 Construction de savoir/430. Savoirs connectés/Développement logiciel.md",
-    "01 Construction de savoir/420. Savoirs affirmés/Personal Knowledge Management (concept).md",
-    "01 Construction de savoir/420. Savoirs affirmés/Complexité (définition).md",
-    "01 Construction de savoir/430. Savoirs connectés",
-    "01 Construction de savoir/420. Savoirs affirmés/Environnement influant un système.md",
-    "01 Construction de savoir/420. Savoirs affirmés/Système (définition).md",
-    "400 Construction de savoir/• Savoirs nébuleux/Système en interaction avec son environnement.md",
-    "01 Construction de savoir/420. Savoirs affirmés/Scout Mindset (concept).md",
-    "400 Construction de savoir/Savoirs Affirmé/500 • Impredactibility of a complex system.md",
-    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Note d'exploration.md",
-    "01 Construction de savoir/420. Savoirs affirmés/La complexité d'une système est basé sur le nombres d'éléments qui interagissent.md",
-    "01 Construction de savoir/410. Savoirs nébuleux/Entropie logicielle?.md",
-    "01 Construction de savoir/420. Savoirs affirmés/Feedback (définition).md",
+    "Untitled.md",
+    "Apprendre.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/L'art des questions.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Note atomique (concept).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Feedback (définition).md",
+    "Note.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs connectés",
     "• Pocket Space •/Attachements/Spinoza.jpg",
     "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Squelette de l'article.canvas",
     "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire",
@@ -245,10 +260,7 @@
     "300 Prise de notes/310. Cours/MT5/Méthodologie de Veille",
     "300 Prise de notes/310. Cours/MT5",
     "300 Prise de notes/310. Cours",
-    "01 Construction de savoir/420. Savoirs affirmés",
-    "01 Construction de savoir/410. Savoirs nébuleux",
-    "100 Social/110. Personnes",
-    "100 Social/120. Organisations",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés",
     "• Pocket Space •/Attachements/planetarium.jpeg"
   ]
 }

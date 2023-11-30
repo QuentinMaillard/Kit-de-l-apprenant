@@ -43,11 +43,11 @@
   ],
   "fileColors": [
     {
-      "path": "00 Prise de notes",
+      "path": "00 Prise de notes (capture)",
       "color": "awYvOR9bWuZwx2pFS61cO"
     },
     {
-      "path": "01 Construction de savoir",
+      "path": "01 Construction de savoir (synthèse)",
       "color": "c-56Y2-P4nMMkELEbtHaJ"
     },
     {
@@ -55,11 +55,11 @@
       "color": "TUElgdneFJk-_ffgcm4TR"
     },
     {
-      "path": "01 Construction de savoir/01 Construction de savoir.md",
+      "path": "01 Construction de savoir (synthèse)/01 Construction de savoir.md",
       "color": "c-56Y2-P4nMMkELEbtHaJ"
     },
     {
-      "path": "00 Prise de notes/00 Prise de notes.md",
+      "path": "00 Prise de notes (capture)/00 Prise de notes.md",
       "color": "awYvOR9bWuZwx2pFS61cO"
     }
   ]
