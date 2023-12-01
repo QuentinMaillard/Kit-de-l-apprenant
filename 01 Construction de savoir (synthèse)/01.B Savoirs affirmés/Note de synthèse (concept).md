@@ -1,7 +1,11 @@
 ---
-créée: 2023-11-05
-en-rapport: 
+fabriquée le: 2023-11-05
+en rapport avec:
+  - "[[Apprentissage Systématique]]"
+  - "[[Obsidian]]"
+  - "[[Personal Knowledge Management (concept)]]"
 aliases:
+  - Note atomique
 ---
 > [!info]+ Sources et inspirations
 > 👨‍🏫 [[20231106 • Séance 1 - ??|Cours de méthodologie de veille]]

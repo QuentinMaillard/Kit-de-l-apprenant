@@ -1,38 +1,31 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:\"200 Activités\"",
+      "query": "path:\"00 Prise de notes (capture)\"  ",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 13770975
       }
     },
     {
-      "query": "path:\"100 Social\"",
+      "query": "path:\"01 Construction de savoir (synthèse)\"  ",
       "color": {
         "a": 1,
-        "rgb": 14069084
+        "rgb": 3721692
       }
     },
     {
-      "query": "path:\"300 Prise de notes\"",
+      "query": "file:\"Accueil\"",
       "color": {
         "a": 1,
-        "rgb": 13917398
-      }
-    },
-    {
-      "query": "path:\"400 Construction de savoir\"",
-      "color": {
-        "a": 1,
-        "rgb": 6083798
+        "rgb": 11392604
       }
     }
   ],

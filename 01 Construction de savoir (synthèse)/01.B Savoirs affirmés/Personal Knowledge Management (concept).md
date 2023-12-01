@@ -1,6 +1,6 @@
 ---
-créée: 2023-11-05
-en-rapport: 
+fabriquée le: 2023-11-05
+en rapport avec: 
 aliases:
 ---
 > [!info]+ Sources et inspirations
@@ -15,7 +15,7 @@ Cette pratique permet de reprendre le contrôle sur le flux constant d'informati
 ##### Pourquoi c'est important/utile?
 
 ##### Comment le mettre en pratique?
-L'une des méthodes très connue est la création de [[Note atomique (concept)|notes atomiques]].
+L'une des méthodes très connue est la création de [[Note de synthèse (concept)|notes atomiques]].
 
 ##### Où/Quand/Qui?
 

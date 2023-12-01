@@ -1,6 +1,6 @@
 ---
-créée: 
-en-rapport:
+fabriquée le: 
+en rapport avec:
   - "[[Règle du boyscout]]"
   - "[[Entropie logicielle?]]"
 aliases:

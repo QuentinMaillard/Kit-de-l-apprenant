@@ -1,5 +1,5 @@
 ---
-up:
+appartient à:
   - "[[Accueil]]"
 ---
 # 😌 Intention

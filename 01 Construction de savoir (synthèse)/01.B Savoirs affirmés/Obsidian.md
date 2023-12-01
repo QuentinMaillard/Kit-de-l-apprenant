@@ -1,7 +1,7 @@
 ---
-en rapport avec: "[[Note atomique (concept)]]"
+en rapport avec: "[[Note de synthèse (concept)]]"
 fabriquée le: 2023-12-01
-aliases:
+aliases: 
 ---
 > [!info]+ Sources et inspirations
 > — *lien vers la page web ou la prise de note* —

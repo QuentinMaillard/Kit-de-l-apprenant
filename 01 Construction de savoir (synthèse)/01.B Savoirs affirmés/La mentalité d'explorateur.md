@@ -1,9 +1,9 @@
 ---
-créée: 2023-11-05
-en-rapport:
+fabriquée le: 2023-11-05
+en rapport avec:
   - "[[Questions boussoles]]"
   - "[[Scout Mindset (concept)]]"
-aliases: 
+aliases:
 ---
 > [!info]+ Sources et inspirations
 > 📖 Julia Galef, [[The scout Mindset|The Scout Mindset]]

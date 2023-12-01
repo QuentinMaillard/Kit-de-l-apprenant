@@ -1,8 +1,8 @@
 ---
-créée: 
-en-rapport:
+en rapport avec:
   - "[[Système (définition)]]"
-aliases: 
+fabriquée le: 
+aliases:
 ---
 > [!info]+ Sources et inspirations
 > 👨‍🦳 Edgar Morin

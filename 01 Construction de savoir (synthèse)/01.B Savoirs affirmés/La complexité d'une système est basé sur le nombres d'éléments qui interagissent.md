@@ -1,6 +1,6 @@
 ---
-créée: 2023-11-05
-en-rapport: 
+fabriquée le: 2023-11-05
+en rapport avec: 
 aliases:
   - complexité exponentielle
 ---

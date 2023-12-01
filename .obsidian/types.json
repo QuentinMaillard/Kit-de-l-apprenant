@@ -8,7 +8,6 @@
     "date": "date",
     "intervenant": "multitext",
     "source": "text",
-    "créée": "date",
     "fabriquée le": "date"
   }
 }

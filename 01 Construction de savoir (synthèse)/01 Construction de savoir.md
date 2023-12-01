@@ -1,5 +1,5 @@
 ---
-up:
+appartient à:
   - "[[Accueil]]"
 ---
 # 😌 Intention
@@ -7,7 +7,9 @@ Cet espace est dédié aux **notes atomiques de synthèse écrites à la main qu
 
 Il aide à **la construction d'un savoir pérenne, complexe, interconnecté et prêt à l'emploi**.
 
-👉 Le dossier *• Savoir nébuleux* est voué à accueillir les notes atomiques d'un savoir encore en formation.
+
+> [!help] À propos de cet espace
+> Le dossier *Savoir nébuleux* est voué à accueillir les notes atomiques d'un savoir encore en formation, *Savoir affirmé* pour les notes rédigée et satisfaisante, *Savoirs réunis* pour les notes qui sont vouées avant tout à être des constellations/index réunissant de multiples synthèses autour d'une thématique.
 
 ---
 

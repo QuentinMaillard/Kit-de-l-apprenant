@@ -15,10 +15,22 @@
               "type": "markdown",
               "state": {
                 "file": "Accueil.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "04b74ccb05207ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "• Pocket Space •/Ce coffre.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -189,8 +201,21 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "dea415a02f4f07d2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,36 +236,37 @@
   },
   "active": "b2b9f7e5cb011777",
   "lastOpenFiles": [
-    "00 Prise de notes (capture)/00 Prise de notes.md",
-    "• Pocket Space •/Liste d'éléments \"Markdown\".md",
+    "• Pocket Space •/Ce coffre.md",
     "Accueil.md",
+    "• Pocket Space •/Liste d'éléments \"Markdown\".md",
     "01 Construction de savoir (synthèse)/01 Construction de savoir.md",
+    "00 Prise de notes (capture)/00 Prise de notes.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Apprentissage Systématique.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Big Data.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/La systémique.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Curiosité.md",
+    "01 Construction de savoir (synthèse)/01.A Savoirs nébuleux/Entropie logicielle?.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Complexité (définition).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Scout Mindset (concept).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Personal Knowledge Management (concept).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Questions boussoles.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Note de synthèse (concept).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Obsidian.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/La mentalité d'explorateur.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Leviers contre la procrastination (méthode).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/La complexité d'une système est basé sur le nombres d'éléments qui interagissent.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/L'art des questions.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Feedback (définition).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Environnement influant un système.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Dette technique (concept).md",
     "00 Prise de notes (capture)/00.B Articles/Article • Big Data.md",
     "00 Prise de notes (capture)/00.A Cours/2023-12-01 - Méthodologie, veille et auto-formation.md",
     "• Pocket Space •/Pièces jointes",
     "00 Prise de notes (capture)/00.B Articles",
     "00 Prise de notes (capture)/00.A Cours",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Apprentissage Systématique.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Obsidian.md",
-    "Invalid date.md",
     "Le wiki de la vie (brouillon).canvas",
-    "2023-11-22.md",
-    "• Pocket Space •/Templates/Template • Prise de note.md",
-    "• Pocket Space •/Templates/Template • Note synthétique.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs connectés/Big Data.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs connectés/La systémique.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs connectés/Curiosité.md",
-    "01 Construction de savoir/01.C Savoirs connectés/Développement logiciel.md",
-    "01 Construction de savoir/01.C Savoirs connectés/Apprendre.md",
-    "01 Construction de savoir/01.C Savoirs connectés/Agir.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Complexité (définition).md",
-    "Untitled.md",
-    "Apprendre.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/L'art des questions.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Note atomique (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Feedback (définition).md",
-    "Note.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs connectés",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis",
     "• Pocket Space •/Attachements/Spinoza.jpg",
     "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Squelette de l'article.canvas",
     "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire",

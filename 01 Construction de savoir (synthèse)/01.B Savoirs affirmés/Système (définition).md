@@ -1,8 +1,8 @@
 ---
-créée: 2023-11-05
-en-rapport:
+en rapport avec:
   - "[[Feedback (définition)]]"
-aliases: 
+fabriquée le: 2023-11-05
+aliases:
 ---
 > [!info]+ Sources et inspirations
 > —
