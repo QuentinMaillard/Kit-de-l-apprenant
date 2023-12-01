@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[• Accueil]]"
+  - "[[Accueil]]"
 ---
 # 😌 Intention
 Cet espace est dédié aux **notes atomiques de synthèse écrites à la main qui forment un réseau de connaissances et d'informations à partir du flux que l'on a traité**.

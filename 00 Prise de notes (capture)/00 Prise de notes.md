@@ -1,6 +1,6 @@
 ---
 up:
-  - "[[• Accueil]]"
+  - "[[Accueil]]"
 ---
 # 😌 Intention
 Cet espace est dédié à **la prise de note, à la consommation "passive" de l'information.**

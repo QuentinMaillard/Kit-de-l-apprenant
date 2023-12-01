@@ -22,8 +22,8 @@ Vous possédez vos données, vous n'êtes pas trackés, le logiciel est **gratui
 
 
 ##### Comment l'utiliser?
-- Dans obsidian, on créé nos notes avec le language *[[Listes d'éléments "Markdown"|markdown]]* (comme sur Notion), qui permet de faire de la mise en forme/page en même temps que l'on écrit, grâce à des caractères spéciaux. 
-👉 Pour voir toutes les possibilités dans une note : [[Listes d'éléments "Markdown"]]
+- Dans obsidian, on créé nos notes avec le language *[[Liste d'éléments "Markdown"|markdown]]* (comme sur Notion), qui permet de faire de la mise en forme/page en même temps que l'on écrit, grâce à des caractères spéciaux. 
+👉 Pour voir toutes les possibilités dans une note : [[Liste d'éléments "Markdown"]]
 
 ---
 # 📚 Ressources

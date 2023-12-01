@@ -2,7 +2,7 @@
   "version": 3,
   "homepages": {
     "Main Homepage": {
-      "value": "• Accueil",
+      "value": "Accueil",
       "kind": "File",
       "openOnStartup": true,
       "hasRibbonIcon": true,
@@ -11,7 +11,7 @@
       "view": "Reading view",
       "revertView": true,
       "openWhenEmpty": true,
-      "refreshDataview": false,
+      "refreshDataview": true,
       "autoCreate": true,
       "autoScroll": false,
       "pin": true,

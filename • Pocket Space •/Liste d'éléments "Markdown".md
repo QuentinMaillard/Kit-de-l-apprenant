@@ -20,8 +20,8 @@ Texte normal
 ---
 
 # Liens
-Lien vers une note : [[• Accueil]]
-[[• Accueil|Lien vers une note avec un alias]]
+Lien vers une note : [[Accueil]]
+[[Accueil|Lien vers une note avec un alias]]
 
 https://scienceetonnante.substack.com/p/le-financement-quadratique-des-biens
  [Lien vers le web avec un alias](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -68,7 +68,7 @@ console.log("example")
 > 
 > **Gras** et *italique* dans un block.
 > 
-> [[• Accueil|Lien dans un block]]
+> [[Accueil|Lien dans un block]]
 
 ---
 # Listes
