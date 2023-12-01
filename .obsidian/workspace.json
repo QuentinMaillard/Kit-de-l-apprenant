@@ -20,21 +20,8 @@
               },
               "pinned": true
             }
-          },
-          {
-            "id": "b362fd9416dd83bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
+                "file": "Accueil.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -140,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md"
+                "file": "Accueil.md"
               }
             }
           },
@@ -150,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
+                "file": "Accueil.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
+                "file": "Accueil.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -235,8 +222,9 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b362fd9416dd83bf",
+  "active": "68c4713ea4380005",
   "lastOpenFiles": [
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Scout Mindset (concept).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Questions boussoles.md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Personal Knowledge Management (concept).md",
@@ -259,7 +247,6 @@
     "01 Construction de savoir (synthèse)/01.C Savoirs réunis/La systémique.md",
     "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Curiosité.md",
     "01 Construction de savoir (synthèse)/01.A Savoirs nébuleux/Entropie logicielle?.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Leviers contre la procrastination (méthode).md",
     "00 Prise de notes (capture)/00.B Articles/Article • Big Data.md",
     "00 Prise de notes (capture)/00.A Cours/2023-12-01 - Méthodologie, veille et auto-formation.md",
