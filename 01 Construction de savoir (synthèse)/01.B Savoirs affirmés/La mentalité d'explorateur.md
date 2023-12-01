@@ -1,9 +1,10 @@
 ---
-fabriquée le: 2023-11-05
 en rapport avec:
   - "[[Questions boussoles]]"
   - "[[Scout Mindset (concept)]]"
+fabriquée le: 2023-11-05
 aliases:
+  - Explorer mindset
 ---
 > [!info]+ Sources et inspirations
 > 📖 Julia Galef, [[The scout Mindset|The Scout Mindset]]

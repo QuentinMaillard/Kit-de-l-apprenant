@@ -1,18 +1,21 @@
 ---
-fabriquée le: 2023-11-05
 en rapport avec:
   - "[[Apprentissage Systématique]]"
   - "[[Obsidian]]"
   - "[[Personal Knowledge Management (concept)]]"
+fabriquée le: 2023-11-05
 aliases:
   - Note atomique
 ---
 > [!info]+ Sources et inspirations
-> 👨‍🏫 [[20231106 • Séance 1 - ??|Cours de méthodologie de veille]]
+> 👨‍🏫 [[2023-12-01 - Méthodologie, veille et auto-formation]]
 
 # 🗒️ Note
 ##### Qu'est-ce?
-Une note atomique est une note courte, concentrée sur son sujet particulier, comme un post-it.
+Une note de synthèse, ou note atomique, est une note courte, concentrée sur son sujet particulier, comme un post-it.
+
+*Synthèse* car c'est concentré sur un sujet à l'issu d'une recherche/réflexion, et *atomique* car la note est courte est liable à d'autres "atomes" (ce qui fait penser à une molécule).
+
 La note devient un conteneur pour une idée particulière, prête à l'emploi (écriture d'un article, transmission à un pair, mise en application dans un projet).
 
 > [!example] Exemple de sujets possibles d'une note atomique
@@ -45,7 +48,9 @@ Il suffit de:
 - tadaaaa
 
 ##### Où/Quand/Qui?
-Tout le monde peut en bénéficier. C'est utilisable partout, mais Obsidian est idéal pour les créer car il permet de facilement les interconnecter et les chercher. C'est utilisable tout le temps, pour n'importe quel type d'information.
+- Tout le monde peut en bénéficier. 
+- C'est utilisable partout, mais Obsidian est idéal pour les créer car il permet de facilement les interconnecter, les chercher et naviguer entre elles. 
+- C'est utilisable tout le temps, pour n'importe quel type d'information.
 
 ---
 # 💭 Brouillon

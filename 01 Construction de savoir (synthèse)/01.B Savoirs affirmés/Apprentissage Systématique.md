@@ -1,8 +1,9 @@
 ---
 en rapport avec:
   - "[[Système (définition)]]"
-fabriquée le: 
+fabriquée le: 2023-12-01
 aliases:
+  - Apprentissage structuré
 ---
 # 🗒️ Note
 ##### Quoi?

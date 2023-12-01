@@ -4,36 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "448346f67bd88909",
+        "id": "53c6595faed9e9b8",
         "type": "tabs",
         "children": [
           {
-            "id": "b2b9f7e5cb011777",
+            "id": "68c4713ea4380005",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Accueil.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "pinned": true
             }
           },
           {
-            "id": "04b74ccb05207ab9",
+            "id": "b362fd9416dd83bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "• Pocket Space •/Ce coffre.md",
+                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -104,7 +105,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Accueil.md",
+                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -139,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Accueil.md"
+                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md"
               }
             }
           },
@@ -149,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Accueil.md",
+                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +167,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Accueil.md",
+                "file": "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,32 +235,32 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b2b9f7e5cb011777",
+  "active": "b362fd9416dd83bf",
   "lastOpenFiles": [
-    "• Pocket Space •/Ce coffre.md",
-    "Accueil.md",
-    "• Pocket Space •/Liste d'éléments \"Markdown\".md",
-    "01 Construction de savoir (synthèse)/01 Construction de savoir.md",
-    "00 Prise de notes (capture)/00 Prise de notes.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Apprentissage Systématique.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Big Data.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/La systémique.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Curiosité.md",
-    "01 Construction de savoir (synthèse)/01.A Savoirs nébuleux/Entropie logicielle?.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Complexité (définition).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Scout Mindset (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Personal Knowledge Management (concept).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Questions boussoles.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Note de synthèse (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Obsidian.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Personal Knowledge Management (concept).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/La mentalité d'explorateur.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Leviers contre la procrastination (méthode).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Obsidian.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Note de synthèse (concept).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/La complexité d'une système est basé sur le nombres d'éléments qui interagissent.md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/L'art des questions.md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Feedback (définition).md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Environnement influant un système.md",
     "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Dette technique (concept).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Complexité (définition).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Apprentissage Systématique.md",
+    "Accueil.md",
+    "• Pocket Space •/Ce coffre.md",
+    "• Pocket Space •/Liste d'éléments \"Markdown\".md",
+    "01 Construction de savoir (synthèse)/01 Construction de savoir.md",
+    "00 Prise de notes (capture)/00 Prise de notes.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Big Data.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/La systémique.md",
+    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Curiosité.md",
+    "01 Construction de savoir (synthèse)/01.A Savoirs nébuleux/Entropie logicielle?.md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
+    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Leviers contre la procrastination (méthode).md",
     "00 Prise de notes (capture)/00.B Articles/Article • Big Data.md",
     "00 Prise de notes (capture)/00.A Cours/2023-12-01 - Méthodologie, veille et auto-formation.md",
     "• Pocket Space •/Pièces jointes",

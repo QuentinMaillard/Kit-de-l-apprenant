@@ -1,8 +1,8 @@
 ---
-fabriquée le: 
 en rapport avec:
   - "[[Règle du boyscout]]"
   - "[[Entropie logicielle?]]"
+fabriquée le: 2023-11-06
 aliases:
 ---
 > [!info]+ Sources et inspirations

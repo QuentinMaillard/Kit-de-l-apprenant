@@ -1,7 +1,9 @@
 ---
+en rapport avec:
+  - "[[La mentalité d'explorateur]]"
 fabriquée le: 2023-11-05
-en rapport avec: 
 aliases:
+  - Mentalité d'éclaireur
 ---
 > [!info]+ Sources et inspirations
 > 📖 [[The scout Mindset]]

@@ -1,7 +1,9 @@
 ---
+en rapport avec:
+  - "[[Système (définition)]]"
 fabriquée le: 2023-11-05
-en rapport avec: 
 aliases:
+  - Rétroaction
 ---
 > [!info]+ Sources et inspirations
 > 🔗 📺 📖

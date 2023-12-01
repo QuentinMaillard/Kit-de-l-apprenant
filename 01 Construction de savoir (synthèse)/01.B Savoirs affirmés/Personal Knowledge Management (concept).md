@@ -1,6 +1,8 @@
 ---
+en rapport avec:
+  - "[[Apprentissage Systématique]]"
+  - "[[Obsidian]]"
 fabriquée le: 2023-11-05
-en rapport avec: 
 aliases:
 ---
 > [!info]+ Sources et inspirations

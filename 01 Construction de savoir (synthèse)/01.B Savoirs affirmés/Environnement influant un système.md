@@ -1,7 +1,7 @@
 ---
-fabriquée le: 2023-11-05
 en rapport avec:
   - "[[Système (définition)]]"
+fabriquée le: 2023-11-05
 aliases:
 ---
 > [!info]+ Sources et inspirations
