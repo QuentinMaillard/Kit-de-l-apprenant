@@ -4,21 +4,45 @@
     "type": "split",
     "children": [
       {
-        "id": "53c6595faed9e9b8",
+        "id": "d39da0c14f7567af",
         "type": "tabs",
         "children": [
           {
-            "id": "68c4713ea4380005",
+            "id": "54d97c07b5558785",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Accueil.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "pinned": true
+            }
+          },
+          {
+            "id": "f1740866e6640ece",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Liste d'éléments \"Markdown\".md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6ec5989763a6d423",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 Capture de savoir (extractions)/Veille/--exemple - 2024-02-02 - Routine de veille.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -51,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#index/embodiment",
+                "query": "[\"source\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -115,7 +139,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.6664804906793454,
+                  "scale": 0.5848417096036057,
                   "close": true
                 }
               }
@@ -168,7 +192,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,8 +227,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -218,51 +242,52 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "homepage:Open homepage": false,
-      "periodic-notes:Open today": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "68c4713ea4380005",
+  "active": "54d97c07b5558785",
   "lastOpenFiles": [
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Système (définition).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Scout Mindset (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Questions boussoles.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Personal Knowledge Management (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/La mentalité d'explorateur.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Obsidian.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Note de synthèse (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/La complexité d'une système est basé sur le nombres d'éléments qui interagissent.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/L'art des questions.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Feedback (définition).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Environnement influant un système.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Dette technique (concept).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Complexité (définition).md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Apprentissage Systématique.md",
+    "Liste d'éléments \"Markdown\".md",
     "Accueil.md",
-    "• Pocket Space •/Ce coffre.md",
-    "• Pocket Space •/Liste d'éléments \"Markdown\".md",
-    "01 Construction de savoir (synthèse)/01 Construction de savoir.md",
-    "00 Prise de notes (capture)/00 Prise de notes.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Big Data.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/La systémique.md",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis/Curiosité.md",
-    "01 Construction de savoir (synthèse)/01.A Savoirs nébuleux/Entropie logicielle?.md",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés/Leviers contre la procrastination (méthode).md",
-    "00 Prise de notes (capture)/00.B Articles/Article • Big Data.md",
-    "00 Prise de notes (capture)/00.A Cours/2023-12-01 - Méthodologie, veille et auto-formation.md",
-    "• Pocket Space •/Pièces jointes",
-    "00 Prise de notes (capture)/00.B Articles",
-    "00 Prise de notes (capture)/00.A Cours",
+    "01 Capture de savoir (extractions)/Veille/--exemple - 2024-02-02 - Routine de veille.md",
+    "01 Capture de savoir (extractions)/Nottes flottantes/--exemple - L'informatique.md",
+    "01 Capture de savoir (extractions)/Explorations/--exemple - Prise de note - Big Data.md",
+    "01 Capture de savoir (extractions)/Explorations/--exemple - Exploration - IA.canvas",
+    "01 Capture de savoir (extractions)/Cours/--exemple - 2023-12-01 - Méthodologie, veille et auto-formation.md",
+    "01 Capture de savoir (extractions)/Conversations avec ChatGPT/--exemple - Conversation sur divers thèmes relatifs à l'apprentissage.md",
+    "02 Objets de savoir (synthèses)/Molécules/--exemples/Big Data.md",
+    "02 Objets de savoir (synthèses)/Atomes/--exemples/Apprentissage systématisé.md",
+    "02 Objets de savoir (synthèses)/Molécules/--exemples",
+    "02 Objets de savoir (synthèses)/Atomes/--exemples",
+    "01 Capture de savoir (extractions)/Conversations avec ChatGPT",
+    "00 Config/Ressources/PDFs/De_la_brievete_de_la_vie.pdf",
+    "00 Config/Ressources/PDFs",
+    "00 Config/Ressources/Images",
+    "04 Journal/04 Journal.md",
+    "01 Capture de savoir (extractions)/Nottes flottantes",
+    "02 Objets de savoir (synthèses)/Atomes/--exemples/La mentalité d'explorateur.md",
+    "03 Efforts/03 Efforts.md",
+    "01 Capture de savoir (extractions)/01 Capture de savoir.md",
+    "Untitled.canvas",
+    "02 Objets de savoir (synthèses)/02 Objets de savoir.md",
+    "04 Journal/2024-02-02.md",
+    "01 Capture de savoir (extractions)/Veille",
+    "01 Capture de savoir (extractions)/Veille",
+    "00 Config/Templates/Template • Note de journée.md",
+    "00 Config/Templates/Template • Note synthétique.md",
+    "00 Config/Templates/Template • Note de capture.md",
+    "00 Config/Templates/Templates • Wilber Matrix.md",
+    "02 Objets de savoir (synthèses)/Atomes/--exemples/Complexité (définition).md",
+    "100 Self-care/110. Journal/111. Days/111 • 2024-02-02 •.md",
+    "100 Self-care/110. Journal/111. Days",
+    "02 Objets de savoir (synthèses)/A. À préciser/Entropie logicielle?.md",
+    "02 Objets de savoir (synthèses)/Molécules/--exemples/La systémique.md",
+    "02 Objets de savoir (synthèses)/Molécules/--exemples/Curiosité.md",
+    "03 Efforts/Mon projet/• ToDo •.md",
+    "03 Efforts/Mon projet/Cahier des charges.md",
     "Le wiki de la vie (brouillon).canvas",
-    "01 Construction de savoir (synthèse)/01.C Savoirs réunis",
     "• Pocket Space •/Attachements/Spinoza.jpg",
     "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire/Squelette de l'article.canvas",
-    "200 Activités/220. Projets scolaires/Méthodologie de veille • Article à écrire",
-    "200 Activités/220. Projets scolaires",
-    "300 Prise de notes/310. Cours/MT5/Méthodologie de Veille",
-    "300 Prise de notes/310. Cours/MT5",
-    "300 Prise de notes/310. Cours",
-    "01 Construction de savoir (synthèse)/01.B Savoirs affirmés",
     "• Pocket Space •/Attachements/planetarium.jpeg"
   ]
 }

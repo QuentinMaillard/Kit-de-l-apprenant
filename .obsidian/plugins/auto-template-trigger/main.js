@@ -44,7 +44,7 @@ var AutoTemplatePromptPlugin = class extends import_obsidian.Plugin {
         }
         const shouldTriggerPrompt = await this.shouldTriggerTemplatePrompt(file);
         if (shouldTriggerPrompt) {
-          this.insertTemplate();
+          this.triggerTemplatePrompt();
         }
       })
     );
@@ -71,7 +71,30 @@ var AutoTemplatePromptPlugin = class extends import_obsidian.Plugin {
     if (isFileInTemplatesFolder) {
       return false;
     }
+    if (this.shouldPreventTriggerIfTemplaterPluginUsed(file)) {
+      return false;
+    }
     return true;
+  }
+  shouldPreventTriggerIfTemplaterPluginUsed(file) {
+    var _a, _b, _c, _d;
+    const templaterPlugin = (_b = (_a = this.app.plugins) == null ? void 0 : _a.plugins) == null ? void 0 : _b["templater-obsidian"];
+    if (!templaterPlugin) {
+      return false;
+    }
+    const areTemplaterFoldersEnabled = !!((_c = templaterPlugin == null ? void 0 : templaterPlugin.settings) == null ? void 0 : _c.enable_folder_templates);
+    if (!areTemplaterFoldersEnabled) {
+      return false;
+    }
+    const templaterFolders = (_d = templaterPlugin == null ? void 0 : templaterPlugin.settings) == null ? void 0 : _d.folder_templates.map(({ folder }) => folder);
+    if (!Array.isArray(templaterFolders)) {
+      return false;
+    }
+    const isFileInTemplaterFolder = templaterFolders.some((templaterFolder) => file.path.startsWith(templaterFolder + "/"));
+    if (isFileInTemplaterFolder) {
+      return true;
+    }
+    return false;
   }
   async getTemplatesFolder() {
     const templatesSettings = await this.app.vault.readConfigJson("templates");
@@ -80,7 +103,7 @@ var AutoTemplatePromptPlugin = class extends import_obsidian.Plugin {
   isMarkdown(file) {
     return file.path.endsWith(".md");
   }
-  insertTemplate() {
+  triggerTemplatePrompt() {
     this.app.commands.executeCommandById("insert-template");
   }
 };

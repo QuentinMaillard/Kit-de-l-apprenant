@@ -3,9 +3,9 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "111 • YYYY-MM-DD •",
-    "template": "• Extras •/Templates/Template • Journal Day.md",
-    "folder": "100 Self-care/110. Journal/111. Days",
+    "format": "",
+    "template": "",
+    "folder": "",
     "enabled": true
   },
   "weekly": {

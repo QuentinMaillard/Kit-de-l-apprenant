@@ -3,10 +3,7 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "en-rapport": "multitext",
-    "up": "multitext",
     "date": "date",
-    "intervenant": "multitext",
     "source": "text",
     "fabriquée le": "date"
   }

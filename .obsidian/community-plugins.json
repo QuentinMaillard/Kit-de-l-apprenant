@@ -1,6 +1,5 @@
 [
   "homepage",
-  "periodic-notes",
   "dataview",
   "obsidian-file-color",
   "calendar",
@@ -8,5 +7,7 @@
   "auto-template-trigger",
   "obsidian-list-callouts",
   "link-favicon",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-outliner",
+  "editing-toolbar"
 ]

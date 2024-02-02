@@ -1,31 +1,48 @@
 # 👋 Bienvenue dans votre nouveau coffre
 
-Bienvenue dans Obsidian!
+Et bienvenue dans Obsidian!
+
 Asseyez-vous confortablement, prenez un peu de thé, tout va bien se passer.
 
-Ce coffre a été réalisé par mes soins à un but pédagogique, pour offrir un point de départ dans son [[Apprentissage Systématique]].
+> [!NOTE]
+> Ce coffre a été réalisé, par mes soins, à un but pédagogique, afin d'offrir un tremplin pour son [[Apprentissage systématisé]]. 
 
-Il est divisé en trois *espaces* : 
-- `Pocket space` qui est un dossier où sont rangés les fichiers de configuration, les pièces jointes, et autres archives
-- [[00 Prise de notes]] qui est le dossier qui contiendra toutes nos captures de contenu (cours, tuto, livres, etc)
-- [[01 Construction de savoir]] qui contiendra nos notes de synthèses interconnectées formant notre réseau de connaissance, notre savoir émergent formulé avec nos propres mots
-*👉 Notez que les espaces de travail/connaissances sont numérotés et possèdent leur propre "note d'accueil" ou "note d'index", qui permet des affichages particuliers et une navigation facilité.* Pour en savoir plus, lire la description de [[Ce coffre|ce coffre]].
+> [!info]- Si vous n'êtes pas encore familier avec le format *markdown*...
+> ...jettez un oeil par ici : [[Liste d'éléments "Markdown"]]. Vous pourrez y découvrir ce qu'il est possible de faire, et copier-coller directement depuis votre *coffre* 🤗
 
 ---
 
+Ce *coffre* est divisé en cinq *dossiers*, qui ont chacun un document — une *note d'index* — qui explique leur contenu. 
+Voici une description globale : 
+- `00 Config` qui est un dossier où sont rangés les fichiers de configuration, les pièces jointes, et autres archives
+- [[01 Capture de savoir]]
+	- Le dossier qui contiendra toutes nos captures de contenu (*notes de capture*, *notes d'exploration*) provenant de cours, tuto, livres, etc
+	- 👉 De l'école aux tutos, **prendre des notes n'est que la première étape**
+- [[02 Objets de savoir]]
+	- Le dossier qui contiendra nos *notes de synthèses*, notre savoir émergent de captures et de nos propres perspectives/réflexions et formulé avec nos propres mots
+	- Chaque note / document à l'intérieur peut être interconnectées pour former notre réseau de connaissance navigable
+- [[03 Efforts]] 
+	- Le dossier qui contiendra nos projets, nos missions et autres quêtes personnelles
+	- Chaque projet peut être un dossier qui contiendra : documents de savoir, ressources, liste de tâches, etc.
+- [[04 Journal]] 
+	- Le dossier qui contiendra les notes quotidiennes, 
+	- Ces notes sont aussi aussi accessibles depuis le calendrier d'Obsidian (*cmd + ⬆︎ + E* puis cliquer sur une journée pour accéder à la note de cette date — ou la créer si elle n'existe pas) 
+
+*👉 Notez que chaque dossier est numéroté et possède sa propre "note d'accueil", que j'appelle plutôt "note d'index", et qui permet de décrire le contenu de ces dossiers importants pour moi et d'avoir une navigation facilité.* Pour en savoir plus, lire la description de [[Ce coffre|ce coffre]].
+
+---
 ## 🧐 **Bon à savoir**
 ### ⌨️ Raccourcis clavier
 - *cmd + N* = créer une nouvelle note
 - *cmd + O* = rechercher une note
-- *cmd + shift + I* = insérer un template
+- *cmd + ⬆︎ + i* = insérer un template
 - *cmd + P* = palette de commandes
 - *cmd + E* = ouvrir/fermer le panneau de gauche
-- *cmd + shift + E* = ouvrir/fermer le panneau de droite
+- *cmd + ⬆︎ + E* = ouvrir/fermer le panneau de droite
 - *cmd + R* = passer en mode *lecture* ou mode *édition*
 - *cmd + M* = déplacer la note actuelle dans un autre dossier
 - *cmd + ,* = ouvrir les réglages
 - *cmd + click* sur un lien/fichier = ouverture dans un nouvel onglet
+- *cmd + ⬆︎ + ⌫* = supprimer le document ouvert
 
-
-> [!info]
-> Ce template est une version simplifiée de mon framework de *Personal Knowledge Management* : https://github.com/QuentinMaillard/Obsidian-Sapiens_Framework
+[[La mentalité d'explorateur]]

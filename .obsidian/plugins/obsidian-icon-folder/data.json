@@ -1,15 +1,16 @@
 {
   "settings": {
-    "migrated": 3,
+    "migrated": 4,
     "iconPacksPath": ".obsidian/icons",
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "IbCircleWithCross",
-      "FabConnectdevelop",
-      "IbPencil",
-      "IbHouse"
+      "LiBook",
+      "IbLightning",
+      "LiSettings",
+      "IbRocket",
+      "IbCircleWithCross"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -22,10 +23,13 @@
     "iconInTabsEnabled": true,
     "iconInTitleEnabled": true,
     "iconInFrontmatterEnabled": false,
-    "iconsBackgroundCheckEnabled": false
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
   },
-  "Accueil.md": "IbHouse",
-  "00 Prise de notes (capture)": "IbPencil",
-  "01 Construction de savoir (synthèse)": "FabConnectdevelop",
-  "• Pocket Space •": "IbCircleWithCross"
+  "00 Config": "LiSettings",
+  "02 Objets de savoir (synthèses)": "IbLightning",
+  "04 Journal": "LiBook",
+  "01 Capture de savoir (extractions)": "IbPencil",
+  "03 Efforts": "IbRocket"
 }

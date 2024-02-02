@@ -2,9 +2,8 @@
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "userIgnoreFilters": [
-    "• Pocket Space •/",
-    "• Pocket Space •/Templates/"
+    "00 Config/"
   ],
-  "attachmentFolderPath": "• Pocket Space •/Pièces jointes",
+  "attachmentFolderPath": "00 Config/",
   "newFileLocation": "current"
 }

@@ -40,5 +40,14 @@
       ],
       "key": "R"
     }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Backspace"
+    }
   ]
 }
