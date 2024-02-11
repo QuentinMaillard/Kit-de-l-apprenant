@@ -16,7 +16,7 @@ Asseyez-vous confortablement, prenez un peu de thé, tout va bien se passer.
 Ce *coffre* est divisé en cinq *dossiers*, qui ont chacun un document — une *note d'index* — qui explique leur contenu. 
 Voici une description globale : 
 - `00 Config` qui est un dossier où sont rangés les fichiers de configuration, les pièces jointes, et autres archives
-- [[01 Capture de savoir]]
+- [[01 Captures d'informations]]
 	- Le dossier qui contiendra toutes nos captures de contenu (*notes de capture*, *notes d'exploration*) provenant de cours, tuto, livres, etc
 	- 👉 De l'école aux tutos, **prendre des notes n'est que la première étape**
 - [[02 Objets de savoir]]

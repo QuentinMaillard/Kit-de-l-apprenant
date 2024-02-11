@@ -1,6 +1,6 @@
 ---
 appartient à:
-  - "[[01 Capture de savoir]]"
+  - "[[01 Captures d'informations]]"
 date: 2023-12-01
 tags:
   - status/en-cours
