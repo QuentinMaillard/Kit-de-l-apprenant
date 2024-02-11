@@ -1,10 +1,10 @@
 ---
-en rapport avec: 
+similaire à: 
 fabriquée le: 
 aliases:
 ---
 > [!info]+ Sources et inspirations
-> — *lien vers la page web ou la prise de note* —
+> — *lien vers une page web ou un document du coffre* —
 
 # 🗒️ Note
 ##### Qu'est-ce?

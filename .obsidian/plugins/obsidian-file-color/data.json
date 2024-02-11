@@ -45,7 +45,7 @@
   ],
   "fileColors": [
     {
-      "path": "01 Capture de savoir (extractions)",
+      "path": "01 Captures de savoir",
       "color": "awYvOR9bWuZwx2pFS61cO"
     },
     {
@@ -57,7 +57,7 @@
       "color": "c-56Y2-P4nMMkELEbtHaJ"
     },
     {
-      "path": "01 Capture de savoir (extractions)/01 Capture de savoir.md",
+      "path": "01 Captures de savoir/01 Capture de savoir.md",
       "color": "awYvOR9bWuZwx2pFS61cO"
     },
     {
@@ -67,6 +67,22 @@
     {
       "path": "04 Journal",
       "color": "Hej4anooMNWHyly-wYsjP"
+    },
+    {
+      "path": "01 Captures de savoir/--exemples",
+      "color": "TUElgdneFJk-_ffgcm4TR"
+    },
+    {
+      "path": "02 Objets de savoir (synthèses)/--exemples",
+      "color": "TUElgdneFJk-_ffgcm4TR"
+    },
+    {
+      "path": "03 Efforts/--exemples",
+      "color": "TUElgdneFJk-_ffgcm4TR"
+    },
+    {
+      "path": "04 Journal/--exemples",
+      "color": "TUElgdneFJk-_ffgcm4TR"
     }
   ]
 }

@@ -8,7 +8,7 @@ aliases:
   - Note atomique
 ---
 > [!info]+ Sources et inspirations
-> 👨‍🏫 [[--exemple - 2023-12-01 - Méthodologie, veille et auto-formation]]
+> 👨‍🏫 [[2023-12-01 - Méthodologie, veille et auto-formation]]
 
 # 🗒️ Note
 ##### Qu'est-ce?

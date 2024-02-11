@@ -1,5 +1,5 @@
 ---
-remonter vers:
+appartient à:
   - "[[01 Capture de savoir]]"
 date: 2023-12-01
 source: 

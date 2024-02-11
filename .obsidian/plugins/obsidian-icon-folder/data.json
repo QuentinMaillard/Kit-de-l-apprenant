@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiHome",
       "LiBook",
       "IbLightning",
       "LiSettings",
-      "IbRocket",
-      "IbCircleWithCross"
+      "IbRocket"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,6 +30,7 @@
   "00 Config": "LiSettings",
   "02 Objets de savoir (synthèses)": "IbLightning",
   "04 Journal": "LiBook",
-  "01 Capture de savoir (extractions)": "IbPencil",
-  "03 Efforts": "IbRocket"
+  "03 Efforts": "IbRocket",
+  "01 Captures de savoir": "IbPencil",
+  "Accueil.md": "LiHome"
 }

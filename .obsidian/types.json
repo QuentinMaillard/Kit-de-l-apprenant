@@ -5,6 +5,8 @@
     "tags": "tags",
     "date": "date",
     "source": "text",
-    "fabriquée le": "date"
+    "fabriquée le": "date",
+    "début": "date",
+    "fin": "date"
   }
 }

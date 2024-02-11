@@ -9,5 +9,8 @@
   "link-favicon",
   "obsidian-icon-folder",
   "obsidian-outliner",
-  "editing-toolbar"
+  "editing-toolbar",
+  "obsidian-editor-shortcuts",
+  "better-word-count",
+  "omnisearch"
 ]

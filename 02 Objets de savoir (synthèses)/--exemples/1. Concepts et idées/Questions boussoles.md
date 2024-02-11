@@ -4,12 +4,9 @@ en rapport avec:
 fabriquée le: 2023-11-05
 aliases:
 ---
-> [!info]+ Sources et inspirations
-> —
-
 # 🗒️ Note
 ##### Qu'est-ce?
-Les questions, étant un constant de notre ignorance, sont un parfait outil d’orientation. 
+Les questions, étant des marqueurs de nos inconnus, sont de parfaits outils d’orientation.
 
 Si une question indique ce qui m'est inconnu, alors trouver d'autres questions me permet de naviguer vers l'inconnu. 
 Garder des questions à l’esprit et les renouveler me permet de naviguer dans les royaumes de l’inconnu.
